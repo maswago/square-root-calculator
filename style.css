@@ -1,0 +1,22 @@
+#myH1{
+   display: block;
+   text-align: center;
+   font-family: Verdana;
+}
+#myH2{
+ display:block;
+ text-align: center;
+ font-family: Verdana;
+}
+
+#myButton{
+   padding: 10px 20px;
+   font-size: 1.5em; 
+   color: white;
+   background-color: rgb(139, 224, 224);
+   border-radius: 5px;
+}
+#myButton:hover{
+   background-color: rgb(48, 223, 223);
+   cursor: pointer;
+}
